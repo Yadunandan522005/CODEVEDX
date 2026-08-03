@@ -34,7 +34,7 @@ Results
 
 
 
-# TAsk:2 Movie Rating Prediction
+# Task:2 Movie Rating Prediction
 
 Project Overview
 * Predicts IMDb movie ratings using movie-related features.
